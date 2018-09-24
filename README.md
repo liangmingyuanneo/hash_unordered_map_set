@@ -1,1 +1,3 @@
 # hash_unordered_map_set
+
+用C语言实现了hash表，并基于hash表实现了stl中的unordered_map和unordered_set
